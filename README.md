@@ -1,5 +1,3 @@
-# FIFA-19-Descriptive-Analysis
-
 # FIFA19 Data Analysis
 
 ## About
